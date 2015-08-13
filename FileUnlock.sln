@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileUnlock", "FileUnlock.vcxproj", "{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug exec|Win32 = Debug exec|Win32
+		Debug exec|x64 = Debug exec|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Debug exec|Win32.ActiveCfg = Debug|Win32
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Debug exec|x64.ActiveCfg = Debug|x64
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Debug|Win32.Build.0 = Debug|Win32
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Debug|x64.ActiveCfg = Debug|x64
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Debug|x64.Build.0 = Debug|x64
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Release|Win32.ActiveCfg = Release|Win32
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Release|Win32.Build.0 = Release|Win32
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Release|x64.ActiveCfg = Release|x64
+		{5A6FAF8D-1BCF-46E2-9D9D-1002887E3C98}.Release|x64.Build.0 = Release|x64
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug exec|Win32.ActiveCfg = Debug exec|Win32
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug exec|Win32.Build.0 = Debug exec|Win32
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug exec|x64.ActiveCfg = Debug exec|x64
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug exec|x64.Build.0 = Debug exec|x64
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug|Win32.Build.0 = Debug|Win32
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug|x64.ActiveCfg = Debug|x64
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Debug|x64.Build.0 = Debug|x64
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Release|Win32.ActiveCfg = Release|Win32
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Release|Win32.Build.0 = Release|Win32
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Release|x64.ActiveCfg = Release|x64
+		{D07D2825-0D6F-450C-8661-E02E9FE297A1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
